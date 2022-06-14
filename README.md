@@ -6,9 +6,9 @@
 
   Also, I have a Bachelor in **Economics**, especially studying Applied Economic Research and Econometrics.
 
-  Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from [**reading and writing**](https://medium.com/@jonabsfx), [**cinema**](https://t.co/BxnmAgyCDO), [**animes**](https://t.co/OnrFidQJ9p),**videogames**, and **historical board games**. 
+  Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from [**reading and writing**](https://medium.com/@jonabsfx), [**cinema**](https://t.co/BxnmAgyCDO), [**animes**](https://t.co/OnrFidQJ9p), **videogames**, and **historical board games**. 
 
-  I also love sports. As a brazilian, it is obvious that a I love **football** and **Fortaleza Esporte Clube**. But I also love **Baseball** (Baltimore Orioles, Seibu Lions and Cardenales de Lara), **American Football** (Baltimore Ravens and Miami Hurricanes), **Basketball** (Milwaukee Bucks), **Hockey** (Washington Capitals), **Rugby** (St. Helens) and **Esports** (Furia and Imperial). 
+  I love sports. As a brazilian, it is obvious that a I love **football**, especially **Fortaleza Esporte Clube**, the greatest Brazil's Northeast football team. But I also love **Baseball** (Baltimore Orioles, Seibu Lions and Cardenales de Lara), **American Football** (Baltimore Ravens and Miami Hurricanes), **Basketball** (Milwaukee Bucks), **Hockey** (Washington Capitals), **Rugby** (St. Helens) and **Esports** (Furia and Imperial). 
 
 ## My Github 
 
@@ -61,8 +61,7 @@
 ### Workspace Setup
   <div style="display: inline_block"><br></br>
     <img align="center" alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
-    <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img align="center" alt="Lenovo" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
+    <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img align="center" alt="Lenovo" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white">
 
   </div>
