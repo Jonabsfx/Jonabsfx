@@ -2,7 +2,7 @@
 
 ## :wave: About Me
 
-  I am Jonab Silveira, a **Back End Developer**, but I also have interess in Data Science and Dev Ops. I have some work experience with R and Python  and I am studying PHP and Ruby. I intend to spend some time to study the functional paradigm in the future, also the Haskell language.
+  I am Jonab Silveira, a **Back End Developer**. I have some work experience with R and PHP. I intend to spend some time to study the functional paradigm in the future, also the Haskell language.
 
   Also, I have a Bachelor in **Economics**, especially studying Applied Economic Research and Econometrics.
 
@@ -23,9 +23,6 @@
 ### Languages
 <div style="display: inline_block"><br>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 
 
 </div>
@@ -39,17 +36,7 @@
     <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
   </div>
-
-### Dev Ops
-  <div style="display: inline_block">
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-     <align="center" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
-    <img align="center" alt="Vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white">
-    <img align="center" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-
-  </div>
-
-
+  
 ### Data Science
   <div style="display: inline_block">
     <img align="center" alt="Tensor Flow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
